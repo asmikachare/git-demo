@@ -4,4 +4,7 @@
 
 #print("Learning Git branching")
 
-print("Exploring Git features")
+#print("Exploring Git features")
+
+#prit("This will cause an error")
+print("Fixed the typo error")
